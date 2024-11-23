@@ -2,7 +2,7 @@
 Projeto desenvolvido para universidade Uniamérica Descomplica BR/ Project developed for University Uniamérica Descomplica BR
 
 
-# Título da Prática / Practice Title: Criação e Gerenciamento de um Repositório no GitHub / Creation and Management of a GitHub Repository
+# Título da Prática: Criação e Gerenciamento de um Repositório no GitHub / Creation and Management of a GitHub Repository
 
 ---
 
